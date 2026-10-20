@@ -1,0 +1,21 @@
+# V4 release playtest checklist
+
+- [ ] Open in a NEW WebStorm window. Confirm V3 remains untouched.
+- [ ] npm install (only needed once in new folder), npm run dev, npm run build.
+- [ ] Start menu shows four worlds and three difficulties. Choose each in turn.
+- [ ] Enter a nickname, choose a profile icon; reach game and verify HUD reflects it.
+- [ ] Open Shop, see 10 items. No purchase possible with insufficient gold.
+- [ ] Skip intro, verify gameplay starts; replay to watch all four scenes automatically.
+- [ ] Bee chase, player hopping, hearts on passive contact, and attack still function.
+- [ ] Earn 3 gold per standard bee, refresh page and confirm balance survives.
+- [ ] Rescue firefly 1: Level 2 banner and extra bee wave. Rescue 2: Level 3. Rescue 3: portal unlocks/final wave.
+- [ ] Press E: Lumo active at most five seconds/four kills; cooldown resets after 60 s.
+- [ ] Later stages include stingers with red marker, armored bees with blue marker/two pulse hits.
+- [ ] Defeat more bees for coin reward; every fourth defeat triggers reinforcement if space available.
+- [ ] During pause, movement/score stop. Resume with P.
+- [ ] Reach portal for victory, see nickname/best score; retry using button or Space.
+- [ ] Change World; open shop, purchase and equip cosmetic, enter a new round.
+- [ ] Equip Orange Toad, Spider, Dragonfly; test collision, movement, flashing on damage, victory, restart.
+- [ ] Test mobile or narrow screens for menu scrolling, and verify controls on keyboard.
+- [ ] Check browser F12 Console for errors, especially asset loading.
+- [ ] Record 20-30 sec showcase and read the official competition submission instructions.
