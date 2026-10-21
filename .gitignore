@@ -1,6 +1,19 @@
+# Dependencies and generated builds
 node_modules/
 dist/
+coverage/
+
+# Local environment files
 .env
 .env.*
 !.env.example
+
+# Editors and OS-generated files
+.idea/
+.vscode/
 .DS_Store
+Thumbs.db
+
+# Temporary patches
+*.tmp
+*.log
